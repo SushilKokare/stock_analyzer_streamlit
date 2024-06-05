@@ -3,6 +3,6 @@ yfinance
 niftystocks
 pandas
 datetime
-datetime timedelta
+datetime
 dateutil
 matplotlib
