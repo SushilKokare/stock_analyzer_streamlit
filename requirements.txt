@@ -1,0 +1,8 @@
+streamlit
+yfinance
+niftystocks
+pandas
+datetime
+datetime timedelta
+dateutil
+matplotlib
