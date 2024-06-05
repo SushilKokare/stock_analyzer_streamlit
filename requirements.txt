@@ -3,6 +3,4 @@ yfinance
 niftystocks
 pandas
 datetime
-datetime
-dateutil
 matplotlib
