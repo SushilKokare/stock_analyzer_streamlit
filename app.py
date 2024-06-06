@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime as dt
 from datetime import timedelta
 from dateutil.relativedelta import relativedelta
-import cm2 as cm
+import candlemarubozu as cm
 import matplotlib.pyplot as plt
 
 
